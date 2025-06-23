@@ -85,7 +85,7 @@ body {
 #cursor {
     height: 180px;
     width: 180px;
-    background-color: rgba(224, 139, 189, 0.814);
+    background-color: rgb(220, 192, 180);
     border-radius: 50%;
     position: fixed;
     transform: translate(-50%, -50%) scale(0);
@@ -172,7 +172,7 @@ body {
     width: 70%;
     position: absolute;
     z-index: 9;
-    background-color: rgb(229, 156, 186);
+    background-color: rgb(220, 192, 180);
 
 
 }
@@ -313,7 +313,7 @@ body {
         width: 70%;
         position: absolute;
         z-index: 9;
-        background-color: rgb(229, 156, 186);
+        background-color: rgb(220, 192, 180);
 
     }
 
