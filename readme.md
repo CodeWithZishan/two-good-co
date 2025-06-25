@@ -17,7 +17,7 @@ Replace this section with a more detailed description as your project evolves.
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/two-good-co.git
+    git clone https://github.com/codewithzishan/two-good-co.git
     ```
 2. **Install dependencies:**
     ```bash
@@ -38,4 +38,3 @@ Contributions are welcome! Please open an issue or submit a pull request.
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-*Replace placeholder sections with project-specific details as needed.*
